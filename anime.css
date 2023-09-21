@@ -1,0 +1,59 @@
+.navigation a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+  }
+  .navigation {
+    background-color: black;
+    overflow:hidden;
+  }
+  .navigation a:hover{ 
+    color: red;
+  }
+  .navigation a:visited{
+    color: purple;
+  }
+  #WELCOME{
+    text-align: center;
+    color: black;
+  }
+  #buttondiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+  #buttondiv button:hover{
+    background-color: yellow;
+  }
+  #Button{
+    width: 100px;
+    height: 40px;
+    background-color: orange;
+    color: white;
+  }
+#signUp{
+ display: flex;
+ justify-content: center;
+ margin-top: 200px;
+}
+#formD{
+  border: solid black 2px;
+  padding: 20px;
+  width: 200px;
+  height: 250px;
+  margin-left: 42%;
+}
+.label{
+  margin:10px
+}
+.sumbit{
+  margin:10px;
+  margin-left: 60px;
+}
+.background-image{
+  display: flex;
+  justify-content: center;
+}

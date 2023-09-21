@@ -1,0 +1,38 @@
+@media (max-width:650px){
+    .navigation{
+        padding: 2px;
+        margin: 5px;
+    }
+    .navigation a{
+        padding: 10px;
+        margin: 10px;
+        font-size: 8px;
+    }
+    .background-image{
+        margin-left: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    .background-image img{
+        height: 200px;
+        width: 110px;
+    }
+    #signUp{
+        display: flex;
+        justify-content: center;
+    }
+   .welcome{
+    font-size: 15px;
+   }
+   .text{
+    font-size: 10px;
+   }
+   #Button{
+    height: 25px;
+   }
+
+
+
+
+
+}
