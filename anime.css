@@ -17,7 +17,7 @@
   }
   #WELCOME{
     text-align: center;
-    color: black;
+    color: white;
   }
   #buttondiv{
     display: flex;
@@ -61,5 +61,5 @@
   justify-content: center;
 }
 .welcome span{
-  color: rgb(207, 48, 48);
+  color: red;
 }
