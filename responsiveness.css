@@ -1,21 +1,23 @@
 @media (max-width:650px){
     .navigation{
-        padding: 2px;
-        margin: 5px;
+        height: 30px;
+    }
+    #nav{
+        height: 30px;
     }
     .navigation a{
-        padding: 10px;
-        margin: 10px;
-        font-size: 8px;
+        padding:6px;
+        margin: 2px;
+        font-size: 7px;
     }
     .background-image{
-        margin-left: 20px;
+        margin: 20px;
         display: flex;
         justify-content: center;
     }
     .background-image img{
         height: 200px;
-        width: 110px;
+        width: 93px;
     }
     #signUp{
         display: flex;
@@ -30,9 +32,7 @@
    #Button{
     height: 25px;
    }
-
-
-
-
-
+    #WELCOME{
+        font-size: 25px;
+    }
 }

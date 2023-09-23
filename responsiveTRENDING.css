@@ -1,0 +1,25 @@
+@media (max-width:650px){
+    .heading{
+        font-size: 30px;
+        width: 750px;
+        margin: 20px;
+    }
+    .section{
+        border: solid black 4px;
+        margin: 10px;
+        width: 700px;
+        padding: 10px;
+    }
+    .section h2{
+        display: flex;
+        justify-content: center;
+    }
+    iframe{
+        width: 400px;
+        height: 280px;
+    }
+    #float{
+        height: 280px;
+        
+    }
+}

@@ -2,7 +2,7 @@
     text-decoration: none;
     color: white;
     text-align: center;
-    padding: 30px;
+    padding: 10px;
     margin: 20px;
   }
   .navigation {
@@ -38,22 +38,28 @@
  display: flex;
  justify-content: center;
  margin-top: 200px;
+ color: purple;
 }
 #formD{
-  border: solid black 2px;
+  border: solid palevioletred 2px;
   padding: 20px;
   width: 200px;
   height: 250px;
   margin-left: 42%;
+  background: radial-gradient(circle at 5.3% 17.2%, rgb(255, 208, 253) 0%, rgb(255, 237, 216) 90%);
 }
 .label{
   margin:10px
 }
-.sumbit{
+.submit{
   margin:10px;
   margin-left: 60px;
+  background-color: rgb(230, 188, 50);
 }
 .background-image{
   display: flex;
   justify-content: center;
+}
+.welcome span{
+  color: rgb(207, 48, 48);
 }
